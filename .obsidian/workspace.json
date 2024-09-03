@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "e0a39f3758dedcc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1a5702a021101f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64fb40af307fa090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e15605d6866e70c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "503c6eb55a9f2177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a0b4049782e4ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4daaa6323940bc2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82c37566ae20c5f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b544d153be695570",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb944bd29e425965",
+    "type": "split",
+    "children": [
+      {
+        "id": "773fdb499845582f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b165f2dfccce256",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "478e9437a3c74671",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9759e82efa6e179c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "64fb40af307fa090",
+  "lastOpenFiles": [
+    "数据结构/排序.md",
+    "未命名",
+    "数据结构/堆.md",
+    "数据结构/队列.md",
+    "数据结构/树.md",
+    "数据结构/image-20240708180949453.png",
+    "数据结构/image-20240708180931717.png",
+    "数据结构/SeqList.md",
+    "数据结构/LinkList.md",
+    "数据结构/image-20240803114904910.png",
+    "数据结构/image-20240803114711830.png",
+    "数据结构/image-20240803114648419.png",
+    "人工智能/AIGC技术.md",
+    "未命名.md",
+    "未命名.canvas",
+    "其他/哪吒.md",
+    "人工智能/你好GPT-4o.md",
+    "其他/学习工作流.md",
+    "其他/江周霖个人简历.md",
+    "其他/开源与闭源的权衡.md",
+    "其他/易编橙·终身成长社群.md",
+    "其他/ONLYOFFICE8.1.md",
+    "数据结构/栈.md",
+    "数据结构/线性.md",
+    "数据结构/image-20240803113540515.png",
+    "数据结构/二叉树.md",
+    "人工智能/评价GPT-4o.md",
+    "人工智能/何为机器学习？.md",
+    "人工智能/是缔造AI程序员，还是AI缔造程序员？.md",
+    "人工智能/image-20240719002310822.png",
+    "人工智能/【AI大模型】如何让大模型变得更聪明.md"
+  ]
+}
